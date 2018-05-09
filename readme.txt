@@ -8,4 +8,4 @@ Git tracks changes of files.
 
 Enjoy it.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
